@@ -1,8 +1,8 @@
 - zh_CN [简体中文](README.md)
 
-# Outer Stepped Polygon Extraction Algorithm (Python)
+# Outer Stepped Polygon Extraction Algorithm 
 
-An algorithm to extract the **minimum outer stepped polygon (contour)** from **2D scattered points**. Suitable for graphics processing, image analysis, GIS, and robotics.
+An algorithm to extract the **minimum outer stepped polygon (contour)** from **2D scattered points**.
 
 ![Example Result](Figure_1.png)
 
