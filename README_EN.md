@@ -2,7 +2,7 @@
 
 # Outer Stepped Polygon Extraction Algorithm 
 
-An algorithm to extract the **minimum outer stepped polygon (contour)** from **2D scattered points**.
+An algorithm to extract the **minimum outer stepped polygon (contour)** from **Polygon (counterclockwise order)**.
 
 ![Example Result](Figure_1.png)
 
