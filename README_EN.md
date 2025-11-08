@@ -6,7 +6,7 @@ An algorithm to extract the **minimum outer stepped polygon (contour)** from **P
 
 ![Example Result](Figure_1.png)
 
-> **Left**: Original point set (counterclockwise order, no outer polygon)  
+> **Left**: Original point set (counterclockwise order)  
 > **Right**: Translated point set + recomputed outer stepped polygon (CCW)
 
 ---
